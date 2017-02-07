@@ -1,3 +1,7 @@
 chips
 bananas
 cake
+
+more chips
+more bananas
+more cake!
